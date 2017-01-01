@@ -7,9 +7,9 @@
 */DerivedDataCache
 */Intermediate
 */Saved
-BuildingEscape/Content/StarterContent
-BuildingEscape/Content/StarterContent/Textures
-BuildingEscape/Content/StarterContent/HDRI
+BattleTank/Content/StarterContent
+BattleTank/Content/StarterContent/Textures
+BattleTank/Content/StarterContent/HDRI
 
 ######################
 # VS Generated Files #
@@ -18,12 +18,6 @@ BuildingEscape/Content/StarterContent/HDRI
 *.suo
 *.VC.opendb
 *.sln
-
-BuildingEscape/BuildingEscape.sdf
-BuildingEscape/BuildingEscape.VC.opendb
-BuildingEscape/BuildingEscape.VC.VC.opendb
-BuildingEscape/.vs/BuildingEscape/v14/.suo
-BuildingEscape/Config/DefaultInput.ini
 
 # Visual Studio 2015 user specific files
 .vs/
