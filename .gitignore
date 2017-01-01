@@ -10,6 +10,8 @@
 BattleTank/Content/StarterContent
 BattleTank/Content/StarterContent/Textures
 BattleTank/Content/StarterContent/HDRI
+*.umap
+BattleTank/Content/*.umap
 
 ######################
 # VS Generated Files #
