@@ -1,0 +1,15 @@
+Design Brief
+
+
+Game - 
+
+Tank Game
+
+
+So this game will be a 2 player VR game
+With Various Low Poly Environments
+Thinking about Large Building Blocks shaped as buildings that can be exploded and moved
+so the city is kindof completely destructable, roads fences, light poles, can be run over and moved
+
+the sound would have no music, just the sound of the tank engines and the reverb from buildings and surroundings
+
